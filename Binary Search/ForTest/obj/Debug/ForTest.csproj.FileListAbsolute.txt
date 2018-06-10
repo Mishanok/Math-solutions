@@ -1,0 +1,7 @@
+D:\App\ForTest\ForTest\bin\Debug\ForTest.exe.config
+D:\App\ForTest\ForTest\bin\Debug\ForTest.exe
+D:\App\ForTest\ForTest\bin\Debug\ForTest.pdb
+D:\App\ForTest\ForTest\obj\Debug\ForTest.csprojAssemblyReference.cache
+D:\App\ForTest\ForTest\obj\Debug\ForTest.csproj.CoreCompileInputs.cache
+D:\App\ForTest\ForTest\obj\Debug\ForTest.exe
+D:\App\ForTest\ForTest\obj\Debug\ForTest.pdb
